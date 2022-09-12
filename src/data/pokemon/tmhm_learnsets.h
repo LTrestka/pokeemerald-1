@@ -4053,29 +4053,12 @@ const u32 gTMHMLearnsets[][2] =
                                         | TMHM(TM46_THIEF)
                                         | TMHM(HM05_FLASH)),
 
-    [SPECIES_CROBAT]      = TMHM_LEARNSET(TMHM(TM06_TOXIC)
-                                        | TMHM(TM10_HIDDEN_POWER)
+    [SPECIES_CROBAT]      = TMHM_LEARNSET(TMHM(TM05_ROAR)
+                                        | TMHM(TM37_SANDSTORM)
                                         | TMHM(TM11_SUNNY_DAY)
-                                        | TMHM(TM12_TAUNT)
-                                        | TMHM(TM15_HYPER_BEAM)
-                                        | TMHM(TM17_PROTECT)
-                                        | TMHM(TM18_RAIN_DANCE)
-                                        | TMHM(TM19_GIGA_DRAIN)
-                                        | TMHM(TM21_FRUSTRATION)
-                                        | TMHM(TM27_RETURN)
-                                        | TMHM(TM30_SHADOW_BALL)
-                                        | TMHM(TM32_DOUBLE_TEAM)
-                                        | TMHM(TM36_SLUDGE_BOMB)
-                                        | TMHM(TM40_AERIAL_ACE)
-                                        | TMHM(TM41_TORMENT)
-                                        | TMHM(TM42_FACADE)
-                                        | TMHM(TM43_SECRET_POWER)
                                         | TMHM(TM44_REST)
-                                        | TMHM(TM45_ATTRACT)
-                                        | TMHM(TM46_THIEF)
-                                        | TMHM(TM47_STEEL_WING)
-                                        | TMHM(TM49_SNATCH)
-                                        | TMHM(HM02_FLY)),
+                                        | TMHM(HM02_FLY)
+                                        | TMHM(HM03_SURF)),
 
     [SPECIES_CHINCHOU]    = TMHM_LEARNSET(TMHM(TM03_WATER_PULSE)
                                         | TMHM(TM06_TOXIC)

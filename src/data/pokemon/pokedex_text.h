@@ -1013,10 +1013,10 @@ const u8 gAriadosPokedexText[] = _(
     "thin and strong silk webbing.");
 
 const u8 gCrobatPokedexText[] = _(
-    "Over the course of evolution, its hind legs\n"
-    "turned into wings. By alternately resting\n"
-    "its front and rear wings, it can fly all day\n"
-    "without having to stop.");
+    "Over the course of evolution, it became\n"
+    "terribly ugly and stupid. In doing so\n"
+    "it became completely and utterly\n"
+    "useless.");
 
 const u8 gChinchouPokedexText[] = _(
     "When it senses danger, it discharges\n"
